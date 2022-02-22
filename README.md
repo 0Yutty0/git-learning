@@ -7,6 +7,6 @@ git learning
 - [x] done
 
 ```
-print("HELLO"); 
+print("123"); 
 
 ```
